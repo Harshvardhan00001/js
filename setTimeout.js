@@ -4,7 +4,7 @@ function check(){
     },1000);
 }
 check();
-
+ 
 function square(num){
     return num * num;
 }
