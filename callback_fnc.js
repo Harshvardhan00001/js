@@ -1,3 +1,5 @@
+// same as normal function but use function call inside a function 
+
 setTimeout( function () {
 console.log("Hello, World!");
 },5000);
